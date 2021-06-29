@@ -1,0 +1,19 @@
+{
+  "contracts": {
+    "Election": "b2a4429fdf15a7c82dfffd0f9660ed45c0632363",
+    "SolidityStorage": "20cf32aa31320d720cb249c821110bbbe5f97dfc",
+    "VyperStorage": "ccd32077a49c9ca63956e6e9c87236191c3e7ace"
+  },
+  "tests": {
+    "tests/test_create_ballot.py": {
+      "coverage": false,
+      "isolated": [
+        "Election"
+      ],
+      "results": "..",
+      "sha1": "b592d8924e8592b91cb167d0a4316048e8bfea38",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
